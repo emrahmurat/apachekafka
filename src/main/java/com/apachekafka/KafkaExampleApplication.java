@@ -1,4 +1,4 @@
-package com.springsecurity.basicauthentication;
+package com.apachekafka;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

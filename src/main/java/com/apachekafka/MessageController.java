@@ -1,4 +1,4 @@
-package com.springsecurity.basicauthentication;
+package com.apachekafka;
 
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.web.bind.annotation.PostMapping;

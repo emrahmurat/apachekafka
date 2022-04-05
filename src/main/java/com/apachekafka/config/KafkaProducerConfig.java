@@ -1,4 +1,4 @@
-package com.springsecurity.basicauthentication.config;
+package com.apachekafka.config;
 
 import java.util.HashMap;
 import java.util.Map;

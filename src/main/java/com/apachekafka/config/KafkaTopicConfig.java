@@ -1,4 +1,4 @@
-package com.springsecurity.basicauthentication.config;
+package com.apachekafka.config;
 
 import org.apache.kafka.clients.admin.NewTopic;
 import org.springframework.context.annotation.Bean;
